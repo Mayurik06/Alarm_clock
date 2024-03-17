@@ -7,7 +7,7 @@ let setBtn=document.querySelector('.set-btn');
 let resetBtn=document.querySelector('.reset-btn');
 let alarmMsg=document.querySelector('.alarm-msg');
 let alarmTime;
-let alarmTone= new Audio('sound/alarm_clock.mp3');
+let alarmTone= new Audio('alarm_clock.mp3');
 
 
 
